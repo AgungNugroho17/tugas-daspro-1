@@ -5,14 +5,14 @@ using namespace std;
 
 int main()
 {
-    int nama;
+    string nama;
     cout << "Hello world!" << endl;
     cout << "Kenalan yuk" << endl;
     cout << "Nama kamu siapa ?";
     cin >> nama;
 
-    cout << "Hi ";
-    printf ("Kamu Harus Tau !!!");
+    cout << "Hi " << nama;
+    printf (" Kamu Harus Tau !!!");
 
 
     int x = 19;
