@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669565723 source:c:\users\legion\documents\daspro\tugas daspro 13 nmr\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+
